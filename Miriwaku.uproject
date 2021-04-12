@@ -2,5 +2,26 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{7EE86BE1-4CA8-5F63-915C-B380D793473D}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "http://www.ue4code.com"
+		},
+		{
+			"Name": "EasyFileDialog",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bcf64fe2e00c48189d8385a9c39b6e61"
+		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"Mac",
+		"Windows"
+	]
 }
