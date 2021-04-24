@@ -28,4 +28,4 @@ Otherwise, pre-compiled version only provided after verifying your licence throu
 
 ## Social Media Links
 
-<a href="https://discord.gg/xgvqQwmPkP"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="96" title="Discord Server" /></a> <a href="https://twitter.com/mltd_fanrender"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="96" title="Discord Server" /></a> 
+<a href="https://discord.gg/xgvqQwmPkP"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="96" title="Discord Server" /></a> <a href="https://twitter.com/mltd_fanrender"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="96" title="Twitter Page" /></a> 
