@@ -76,7 +76,7 @@ DerivedDataCache/*
 # Exclusive to Miriwaku:
 # Anything outside MLTD folders.
 
-Content/*/*
+Content/*
 
-!Content/MLTD/*
-!Content/Splash/*
+!Content/MLTD/
+!Content/Splash/EdSplash.png
