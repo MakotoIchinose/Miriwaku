@@ -22,6 +22,9 @@ Million Framework is a machinima creation framework for THE iDOLM@STER Million L
 Million Framework is an editor-only Unreal Engine 4.26 project requires a modified UE4.26 to work properly. You can grab it here:
 https://github.com/TheHoodieGuy02/UnrealEngine
 
+If you see a 404 page, follow the steps outlined in this page first to get access to the repository:
+https://www.unrealengine.com/en-US/ue4-on-github
+
 ## Social Media Links
 
 <a href="https://discord.gg/xgvqQwmPkP"><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="96" title="Discord Server" /></a> <a href="https://twitter.com/mltd_fanrender"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="96" title="Twitter Page" /></a> 
