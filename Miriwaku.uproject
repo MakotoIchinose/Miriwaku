@@ -17,11 +17,54 @@
 			"Name": "EasyFileDialog",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bcf64fe2e00c48189d8385a9c39b6e61"
+		},
+		{
+			"Name": "MidiAsset",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aff69119f95d405abbab38236e258c2e"
+		},
+		{
+			"Name": "MagicLeap",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Mac",
+				"Win64"
+			]
+		},
+		{
+			"Name": "MagicLeapMedia",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin"
+			]
+		},
+		{
+			"Name": "LuminPlatformFeatures",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin"
+			]
+		},
+		{
+			"Name": "MLSDK",
+			"Enabled": false
+		},
+		{
+			"Name": "MagicLeapPassableWorld",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Mac",
+				"Win64"
+			]
 		}
 	],
 	"TargetPlatforms": [
 		"Linux",
 		"Mac",
-		"Windows"
+		"Windows",
+		"Android",
+		"IOS"
 	]
 }
