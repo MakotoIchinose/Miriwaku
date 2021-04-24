@@ -19,12 +19,8 @@ Million Framework is a machinima creation framework for THE iDOLM@STER Million L
 - Built-in reference viewer that loads any still image or image sequence, that can sync with the Sequencer!
 
 ## Installation
-Million Framework is an editor-only Unreal Engine 4.26 project requires a modified UE4.26 to work properly. However, due to Unreal Engine's EULA limitations, we cannot freely distribute pre-compiled version of the editor.
-
-If you wish to build the editor yourself, you can do so by opening this repository:
+Million Framework is an editor-only Unreal Engine 4.26 project requires a modified UE4.26 to work properly. You can grab it here:
 https://github.com/TheHoodieGuy02/UnrealEngine
-
-Otherwise, pre-compiled version only provided after verifying your licence through [the Discord server](https://discord.gg/xgvqQwmPkP). Note that the pre-compiled version is stripped down to be focused for linear media creation and does not include any game making functionalities.
 
 ## Social Media Links
 
