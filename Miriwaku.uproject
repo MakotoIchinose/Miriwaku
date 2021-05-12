@@ -3,6 +3,21 @@
 	"EngineAssociation": "{7EE86BE1-4CA8-5F63-915C-B380D793473D}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Miriwaku",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "MiriwakuEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"AdditionalDependencies": [
+				"Blutility"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Volumetrics",
@@ -58,6 +73,10 @@
 				"Mac",
 				"Win64"
 			]
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
