@@ -79,4 +79,4 @@ DerivedDataCache/*
 Content/*
 
 !Content/MLTD/
-!Content/Splash/EdSplash.png
+!Content/Splash/*
